@@ -1,0 +1,1 @@
+F:\Rust\2ndeditionRE\Rust_Essentials\Chapters\Chapter\ 6\ -\ Using\ traits\ and\ OOP\ in\ Rust\code\trait_constraints\target\debug\trait_constraints.exe: F:\Rust\2ndeditionRE\Rust_Essentials\Chapters\Chapter\ 6\ -\ Using\ traits\ and\ OOP\ in\ Rust\code\trait_constraints\src\trait_constraints.rs
