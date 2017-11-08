@@ -1,0 +1,7 @@
+[package]
+name = "file_time"
+version = "0.1.0"
+authors = ["Ivo Balbaert <ivo.balbaert@telenet.be>"]
+
+[dependencies]
+chrono = "0.4"

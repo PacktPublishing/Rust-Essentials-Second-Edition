@@ -1,0 +1,9 @@
+[package]
+name = "many_threads"
+version = "0.1.0"
+authors = ["Ivo Balbaert <ivo.balbaert@telenet.be>"]
+
+[dependencies]
+num_cpus = "*"
+threadpool = "*"
+

@@ -1,0 +1,7 @@
+[package]
+name = "piston101"
+version = "0.1.0"
+authors = ["Ivo Balbaert <ivo.balbaert@telenet.be>"]
+
+[dependencies]
+piston_window = "0.61.0"
